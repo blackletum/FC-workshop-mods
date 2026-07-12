@@ -1,0 +1,66 @@
+"items_game"
+{	
+	"items" 
+	{
+		"0"
+		{
+			"name"			"Brazilian Miku"
+			"prefab"		"base_misc"
+			"first_sale_date"	"2026/07/11"
+			"item_class"		"tf_wearable"
+			"craft_material_type"	"hat"
+			"craft_class"		"hat"
+			"capabilities"
+			{
+				"nameable"		"1"
+				"can_craft_count"	"1"
+				"can_craft_if_purchased"	"1"
+			}
+			"show_in_armory"	"1"
+			"item_type_name"	"#FC_Playermodel"
+			"item_name"	"Brazilian Miku"
+			"item_description"	"Miku dayo!"
+			"item_slot"	"misc"
+			"equip_region"	"playermodel"
+			"moditem" "1"
+			"item_quality"	"unique"
+			"image_inventory"	"backpack\player\playermodels\brazilian_migu_preview"
+			"image_inventory_size_w"		"512"
+			"image_inventory_size_h"		"256"
+			"used_by_classes"
+			{
+				"john"	"1"
+			}
+			"visuals"
+			{
+
+			}
+			"attributes"
+			{
+				"player model override"
+				{
+					"attribute_class"		"player_model_override"
+					"value"		"models/player/john/miku_brazilian_john_freeman.mdl"
+				}
+				//"override playerclass response criteria"
+				//{
+				//	"attribute_class"		"override_playerclass_criteria"
+				//	"value"		"1"
+				//}
+				//"additional response criteria name"
+				//{
+				//	"attribute_class"		"additional_response_criteria_name"
+				//	"value"		"IsPMPlaceholder01"
+				//}
+				//"attach script"
+				//{
+				//	"attribute_class"		"attach_vscript"
+				//	"value"		"items/playermodels/placeholder01.nut"
+				//}
+			}
+			"drop_type"	"none"
+			"mouse_pressed_sound"	"ui/item_metal_weapon_pickup.wav"
+			"drop_sound"		"ui/item_metal_weapon_drop.wav"
+		}
+	}
+}
