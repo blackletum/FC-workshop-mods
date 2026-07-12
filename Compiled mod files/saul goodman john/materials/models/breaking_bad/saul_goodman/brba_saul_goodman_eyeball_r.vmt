@@ -1,0 +1,18 @@
+EyeRefract
+{
+$Iris "models/breaking_bad/saul_goodman/brba_saul_goodman_eyes_c" 
+$AmbientOcclTexture "models/breaking_bad/saul_goodman/brba_saul_goodman_eye_ao" 
+$Envmap "models/breaking_bad/saul_goodman/eye-reflection-cubemap-"
+$glossiness 0.2 
+$CorneaTexture "models/breaking_bad/saul_goodman/eye-cornea" 
+$EyeballRadius "0.5" 
+$AmbientOcclColor "[.4 .3 .27]" 
+$Dilation ".6" 
+$ParallaxStrength "0.25" 
+$CorneaBumpStrength ".5" 
+$halflambert 1
+$nodecal 1
+$ambientocclusion 1
+ 
+$SphereTexkillCombo 0 
+}

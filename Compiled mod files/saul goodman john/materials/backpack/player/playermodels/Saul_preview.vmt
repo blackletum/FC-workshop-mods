@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "backpack/player/playermodels/Saul_preview"
+	"$translucent" "1"
+}

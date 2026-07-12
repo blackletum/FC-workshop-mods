@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+$basetexture "models/breaking_bad/saul_goodman/brba_saul_goodman_hair_c"
+$bumpmap "models/breaking_bad/saul_goodman/brba_saul_goodman_hair_n"
+
+$translucent 0
+$phong 1
+$phongboost "0.1"
+$phongexponent 15
+$phongtint "[.85 .85 1]"
+$halflambert 1
+$phongfresnelranges "[.3 .65 30]"
+$ambientocclusion 1
+
+
+$diffuseexp "1.5"
+}
