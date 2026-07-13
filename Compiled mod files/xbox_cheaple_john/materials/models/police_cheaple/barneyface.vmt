@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/police_cheaple/barneyface"
+	"$halflambert" 1
+	"$nodecal" "1"
+}
