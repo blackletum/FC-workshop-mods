@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "backpack\player\playermodels\betacop_preview"
+	"$translucent" "1"
+}
