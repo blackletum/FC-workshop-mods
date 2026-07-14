@@ -7,7 +7,7 @@
 			"name"			"Saul Goodman"
 			"prefab"		"base_misc"
 			"first_sale_date"	"2026/07/11"
-			"item_class"		"tf_wearable"
+			"item_class"		"tf_wearable_pm"
 			"craft_material_type"	"hat"
 			"craft_class"		"hat"
 			"capabilities"
@@ -24,6 +24,7 @@
 			"equip_region"	"playermodel"
 			"moditem" "1"
 			"item_quality"	"unique"
+			"model_player" "models/player/john/saul_goodman_john.mdl"
 			"image_inventory"	"backpack\player\playermodels\Saul_preview"
 			"image_inventory_size_w"		"420"
 			"image_inventory_size_h"		"420"
@@ -37,11 +38,11 @@
 			}
 			"attributes"
 			{
-				"player model override"
-				{
-					"attribute_class"		"player_model_override"
-					"value"		"models/player/john/saul_goodman_john.mdl"
-				}
+				//"player model override"
+				//{
+				//	"attribute_class"		"player_model_override"
+				//	"value"		"models/player/john/saul_goodman_john.mdl"
+				//}
 				//"override playerclass response criteria"
 				//{
 				//	"attribute_class"		"override_playerclass_criteria"

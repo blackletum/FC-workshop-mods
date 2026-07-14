@@ -7,7 +7,7 @@
 			"name"			"Brazilian Miku"
 			"prefab"		"base_misc"
 			"first_sale_date"	"2026/07/11"
-			"item_class"		"tf_wearable"
+			"item_class"		"tf_wearable_pm"
 			"craft_material_type"	"hat"
 			"craft_class"		"hat"
 			"capabilities"
@@ -23,6 +23,7 @@
 			"item_slot"	"misc"
 			"equip_region"	"playermodel"
 			"moditem" "1"
+			"model_player"		"models/player/john/miku_brazilian_john_freeman.mdl"
 			"item_quality"	"unique"
 			"image_inventory"	"backpack\player\playermodels\brazilian_migu_preview"
 			"image_inventory_size_w"		"512"
@@ -37,11 +38,11 @@
 			}
 			"attributes"
 			{
-				"player model override"
-				{
-					"attribute_class"		"player_model_override"
-					"value"		"models/player/john/miku_brazilian_john_freeman.mdl"
-				}
+				//"player model override"
+				//{
+				//	"attribute_class"		"player_model_override"
+				//	"value"		"models/player/john/miku_brazilian_john_freeman.mdl"
+				//}
 				//"override playerclass response criteria"
 				//{
 				//	"attribute_class"		"override_playerclass_criteria"

@@ -7,7 +7,7 @@
 			"name"			"Beta Cop"
 			"prefab"		"base_misc"
 			"first_sale_date"	"2026/07/11"
-			"item_class"		"tf_wearable"
+			"item_class"		"tf_wearable_pm"
 			"craft_material_type"	"hat"
 			"craft_class"		"hat"
 			"capabilities"
