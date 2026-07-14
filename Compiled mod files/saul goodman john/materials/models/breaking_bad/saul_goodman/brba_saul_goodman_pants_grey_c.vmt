@@ -3,4 +3,5 @@ VertexLitGeneric
 $basetexture "models/breaking_bad/saul_goodman/brba_saul_goodman_pants_grey_c"
 $bumpmap "models/breaking_bad/saul_goodman/brba_saul_goodman_pants_n"
 $halflambert 1
+$nodecal "1"
 }

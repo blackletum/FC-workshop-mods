@@ -42,6 +42,70 @@ $cdmaterials "models\breaking_bad\saul_goodman\"
 $cdmaterials "models\humans\male"
 $cdmaterials "models\effects"
 
+$texturegroup "skinfamilies"
+{
+	{
+		"brba_saul_goodman_eyeball_l"
+		"brba_saul_goodman_eyeball_r"
+		"brba_saul_goodman_eyelashes_c"
+		"brba_saul_goodman_hair_c"
+		"brba_saul_goodman_hands_c"
+		"brba_saul_goodman_hanky_c"
+		"brba_saul_goodman_head_c"
+		"brba_saul_goodman_jacket_grey_c"
+		"brba_saul_goodman_pants_belt_grey_c"
+		"brba_saul_goodman_pants_grey_c"
+		"brba_saul_goodman_shirt_pink_c"
+		"brba_saul_goodman_shoes_c"
+		"brba_saul_goodman_tie_c"
+	}
+	{
+		"brba_saul_goodman_eyeball_l"
+		"brba_saul_goodman_eyeball_r"
+		"brba_saul_goodman_eyelashes_c"
+		"brba_saul_goodman_hair_c"
+		"brba_saul_goodman_hands_c"
+		"brba_saul_goodman_hanky_c"
+		"brba_saul_goodman_head_c"
+		"brba_saul_goodman_jacket_grey_c"
+		"brba_saul_goodman_pants_belt_grey_c"
+		"brba_saul_goodman_pants_grey_c"
+		"brba_saul_goodman_shirt_pink_c"
+		"brba_saul_goodman_shoes_c"
+		"brba_saul_goodman_tie_c"
+	}
+	{
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+	}
+	{
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+	}
+}
+
 $attachment "eyes" "ValveBiped.Bip01_Head1" 3.23 -3.49 0.12 rotate 0 -80.1 -90
 $attachment "mouth" "ValveBiped.Bip01_Head1" 0.6 -5.5 0 rotate 0 -80 -90
 $attachment "chest" "ValveBiped.Bip01_Spine2" 5 4 0 rotate 0 90 90

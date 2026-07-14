@@ -15,4 +15,5 @@ $nodecal 1
 $ambientocclusion 1
  
 $SphereTexkillCombo 0 
+$nodecal "1"
 }

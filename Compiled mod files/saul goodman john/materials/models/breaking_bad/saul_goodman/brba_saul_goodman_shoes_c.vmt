@@ -12,4 +12,5 @@ $ambientocclusion 1
 
 
 $diffuseexp "1.5"
+$nodecal "1"
 }

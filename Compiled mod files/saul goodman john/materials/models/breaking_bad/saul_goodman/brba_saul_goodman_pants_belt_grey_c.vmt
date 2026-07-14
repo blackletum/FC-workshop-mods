@@ -1,4 +1,5 @@
 VertexLitGeneric
 {
 	$basetexture "models/breaking_bad/saul_goodman/brba_saul_goodman_pants_belt_grey_c"
+	$nodecal "1"
 }
