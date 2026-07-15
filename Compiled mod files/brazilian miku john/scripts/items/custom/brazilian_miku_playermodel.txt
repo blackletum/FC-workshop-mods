@@ -2,7 +2,7 @@
 {	
 	"items" 
 	{
-		"0"
+		"4000"
 		{
 			"name"			"Brazilian Miku"
 			"prefab"		"base_misc"
