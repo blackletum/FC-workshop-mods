@@ -2,7 +2,7 @@
 {	
 	"items" 
 	{
-		"0"
+		"4001"
 		{
 			"name"			"Saul Goodman"
 			"prefab"		"base_misc"
