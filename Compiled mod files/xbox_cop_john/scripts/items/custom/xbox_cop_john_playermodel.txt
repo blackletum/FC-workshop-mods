@@ -2,7 +2,7 @@
 {	
 	"items" 
 	{
-		"0"
+		"4002"
 		{
 			"name"			"Xbox Cop"
 			"prefab"		"base_misc"
