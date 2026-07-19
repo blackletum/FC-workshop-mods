@@ -4,7 +4,7 @@
 	{
 		"0"
 		{
-			"name"			"Cheaple Cop"
+			"name"			"Xbox Cop"
 			"prefab"		"base_misc"
 			"first_sale_date"	"2026/07/11"
 			"item_class"		"tf_wearable_pm"
@@ -18,15 +18,16 @@
 			}
 			"show_in_armory"	"1"
 			"item_type_name"	"#FC_Playermodel"
-			"item_name"	"Cheaple Cop"
-			"item_description"	"XBOX dayo"
+			"item_name"	"Xbox Cop"
+			"item_description"	"4K UHD Textures"
 			"item_slot"	"misc"
 			"equip_region"	"playermodel"
 			"moditem" "1"
 			"item_quality"	"unique"
-			"image_inventory"	"backpack\player\playermodels\preview"
-			"image_inventory_size_w"		"512"
-			"image_inventory_size_h"		"256"
+			"image_inventory"	"backpack\player\playermodels\john_xbox_preview"
+			"image_inventory_size_w"		"500"
+			"image_inventory_size_h"		"500"
+			"model_player"		"models/player/john/xbox_cop_john.mdl"
 			"used_by_classes"
 			{
 				"john"	"1"
@@ -37,11 +38,6 @@
 			}
 			"attributes"
 			{
-				"player model override"
-				{
-					"attribute_class"		"player_model_override"
-					"value"		"models/player/john/police_cheaple_xbox_john.mdl"
-				}
 				//"override playerclass response criteria"
 				//{
 				//	"attribute_class"		"override_playerclass_criteria"
