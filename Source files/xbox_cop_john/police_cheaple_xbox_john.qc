@@ -397,6 +397,50 @@ $jointsurfaceprop "ValveBiped.Bip01_Head1" "no_decal"
 $jointsurfaceprop "ValveBiped.forward" "no_decal"
 $jointsurfaceprop "prp_hat" "no_decal"
 
+$texturegroup	"skinfamilies"
+{
+	{
+		"barneyface"
+		"bmouth"
+		"eyeball_l"
+		"eyeball_r"
+		"glint"
+		"metrocop_sheet"
+		"pupil_l"
+		"pupil_r"
+	}
+	{
+		"barneyface"
+		"bmouth"
+		"eyeball_l"
+		"eyeball_r"
+		"glint"
+		"metrocop_sheet"
+		"pupil_l"
+		"pupil_r"
+	}
+	{
+		"invulnfx_red"
+		"invulnfx_red"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+	}
+	{
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+	}
+}
+
 $contents "solid"
 
 $illumposition -0.024 1.866 35.15
