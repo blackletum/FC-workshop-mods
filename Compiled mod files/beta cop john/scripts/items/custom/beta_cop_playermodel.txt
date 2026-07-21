@@ -2,7 +2,7 @@
 {	
 	"items" 
 	{
-		"0"
+		"4003"
 		{
 			"name"			"Beta Cop"
 			"prefab"		"base_misc"
@@ -25,6 +25,7 @@
 			"moditem" "1"
 			"item_quality"	"unique"
 			"image_inventory"	"backpack\player\playermodels\betacop_preview"
+			"model_player"		"models\player\john\betacop_john.mdl"
 			"image_inventory_size_w"		"256"
 			"image_inventory_size_h"		"256"
 			"used_by_classes"
@@ -37,11 +38,6 @@
 			}
 			"attributes"
 			{
-				"player model override"
-				{
-					"attribute_class"		"player_model_override"
-					"value"		"models\player\john\betacop_john.mdl"
-				}
 				//"override playerclass response criteria"
 				//{
 				//	"attribute_class"		"override_playerclass_criteria"
