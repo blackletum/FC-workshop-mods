@@ -27,6 +27,7 @@
 			"image_inventory"	"backpack\player\playermodels\brazilian_migu_preview"
 			"image_inventory_size_w"		"512"
 			"image_inventory_size_h"		"256"
+			"model_player"		"models\player\john\TEMPLATE.mdl"
 			"used_by_classes"
 			{
 				"john"	"1"
@@ -37,11 +38,6 @@
 			}
 			"attributes"
 			{
-				"player model override"
-				{
-					"attribute_class"		"player_model_override"
-					"value"		"models/player/john/miku_brazilian_john_freeman.mdl"
-				}
 				//"override playerclass response criteria"
 				//{
 				//	"attribute_class"		"override_playerclass_criteria"
