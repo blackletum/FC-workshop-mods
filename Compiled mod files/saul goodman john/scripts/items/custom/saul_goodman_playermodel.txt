@@ -11,7 +11,7 @@
 			"craft_material_type"	"hat"
 			"craft_class"		"hat"
 			"capabilities"
-			{f
+			{
 				"nameable"		"1"
 				"can_craft_count"	"1"
 				"can_craft_if_purchased"	"1"

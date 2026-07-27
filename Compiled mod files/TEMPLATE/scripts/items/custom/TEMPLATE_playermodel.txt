@@ -4,10 +4,10 @@
 	{
 		"0"
 		{
-			"name"			"Brazilian Miku"
+			"name"			"TEMPLATE NAME"
 			"prefab"		"base_misc"
 			"first_sale_date"	"2026/07/11"
-			"item_class"		"tf_wearable"
+			"item_class"		"tf_wearable_pm"
 			"craft_material_type"	"hat"
 			"craft_class"		"hat"
 			"capabilities"
@@ -18,13 +18,13 @@
 			}
 			"show_in_armory"	"1"
 			"item_type_name"	"#FC_Playermodel"
-			"item_name"	"Brazilian Miku"
-			"item_description"	"Miku dayo!"
+			"item_name"	"TEMPLATE NAME"
+			"item_description"	"TEMPLATE DESCRIPTION"
 			"item_slot"	"misc"
 			"equip_region"	"playermodel"
 			"moditem" "1"
 			"item_quality"	"unique"
-			"image_inventory"	"backpack\player\playermodels\brazilian_migu_preview"
+			"image_inventory"	"backpack\player\playermodels\preview"
 			"image_inventory_size_w"		"512"
 			"image_inventory_size_h"		"256"
 			"model_player"		"models\player\john\TEMPLATE.mdl"
@@ -34,7 +34,6 @@
 			}
 			"visuals"
 			{
-
 			}
 			"attributes"
 			{
