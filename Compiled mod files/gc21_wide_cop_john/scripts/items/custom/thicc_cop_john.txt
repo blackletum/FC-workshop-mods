@@ -24,9 +24,9 @@
 			"equip_region"	"playermodel"
 			"moditem" "1"
 			"item_quality"	"unique"
-			"image_inventory"	"backpack\player\playermodels\preview"
-			"image_inventory_size_w"		"512"
-			"image_inventory_size_h"		"256"
+			"image_inventory"	"backpack\player\playermodels\thicc_cop_john"
+			"image_inventory_size_w"		"500"
+			"image_inventory_size_h"		"500"
 			"model_player"		"models\player\john\thicc_cop_john.mdl"
 			"used_by_classes"
 			{

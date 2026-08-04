@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "backpack/player/playermodels/thicc_cop_john"
+	"$translucent" "1"
+}
