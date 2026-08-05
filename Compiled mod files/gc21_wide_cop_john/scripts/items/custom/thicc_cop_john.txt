@@ -2,7 +2,7 @@
 {	
 	"items" 
 	{
-		"0"
+		"4004"
 		{
 			"name"			"THICC COP JOHN"
 			"prefab"		"base_misc"
