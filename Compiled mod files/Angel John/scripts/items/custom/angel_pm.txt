@@ -25,8 +25,8 @@
 			"moditem" "1"
 			"item_quality"	"unique"
 			"image_inventory"	"backpack\player\playermodels\angel_preview"
-			"image_inventory_size_w"		"415"
-			"image_inventory_size_h"		"415"
+			"image_inventory_size_w"		"500"
+			"image_inventory_size_h"		"500"
 			"model_player"		"models\player\john\angel_john.mdl"
 			"used_by_classes"
 			{
