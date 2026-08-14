@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "models/dih/hl2tower_angel/angel_face8"
+	$bumpmap "models/dih/hl2tower_angel/shared/normal"
+
+$detailscale 1        // scales the detail texture to same size as diffuse texture.
+  
+$detailblendmode 5    // 6 also works. 1 can be used if both are unavailable 
+    $detail "models/dih/hl2tower_angel/detail/angel_face8"
+
+
+
+	$lightwarptexture "models/dih/hl2tower_angel/shared/toon_all"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 3
+}

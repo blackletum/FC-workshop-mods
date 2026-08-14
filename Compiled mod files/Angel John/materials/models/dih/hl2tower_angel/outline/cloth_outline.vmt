@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	$basetexture "color/black"
+	$lightwarptexture "models/dih/commissions/kk_w_arknights/shared/toon_head"
+	$nodecal 1
+}
