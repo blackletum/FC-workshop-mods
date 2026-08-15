@@ -46,34 +46,98 @@ $cdmaterials "models\effects"
 
 $texturegroup "skinfamilies"
 {
-	{ "angel_face4"  }
-	{ "angel_face3"  }
-	{ "angel_face2"  }
-	{ "angel_face5"  }
-	{ "angel_face6"  }
-	{ "angel_face7"  }
-	{ "angel_face8"  }
-	{ "angel_face9"  }
-	{ "angel_face10" }
-	{ "angel_face11" }
-	{ "angel_face12" }
-	{ "angel_face13" }
-	{ "angel_face14" }
-	{ "angel_face15" }
-	{ "angel_face16" }
-	{ "angel_face17" }
-	{ "angel_face18" }
-	{ "angel_face19" }
-	{ "angel_face20" }
-	{ "angel_face21" }
-	{ "angel_face22" }
-	{ "angel_face23" }
-	{ "angel_face24" }
-	{ "angel_face25" }
-	{ "angel_face26" }
-	{ "angel_face27" }
-	{ "angel_face28" }
-	{ "angel_face29" }
+	{
+		"angel_body_new"
+		"angel_face"
+		"angel_face2"
+		"angel_face3"
+		"angel_face4"
+		"angel_face5"
+		"angel_face6"
+		"angel_face7"
+		"angel_face8"
+		"angel_face9"
+		"angel_face10"
+		"angel_face11"
+		"angel_face12"
+		"angel_face13"
+		"angel_face14"
+		"angel_face15"
+		"angel_face16"
+		"angel_face17"
+		"angel_face18"
+		"angel_face19"
+		"angel_hair_new"
+	}
+	{
+		"angel_body_new"
+		"angel_face"
+		"angel_face2"
+		"angel_face3"
+		"angel_face4"
+		"angel_face5"
+		"angel_face6"
+		"angel_face7"
+		"angel_face8"
+		"angel_face9"
+		"angel_face10"
+		"angel_face11"
+		"angel_face12"
+		"angel_face13"
+		"angel_face14"
+		"angel_face15"
+		"angel_face16"
+		"angel_face17"
+		"angel_face18"
+		"angel_face19"
+		"angel_hair_new"
+	}
+	{
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"invulnfx_red"
+		"invulnfx_red"
+		"invulnfx_red"
+	}
+	{
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"eyeball_l_invun"
+		"eyeball_l_invun"
+		"invulnfx_blue"
+		"invulnfx_blue"
+		"invulnfx_blue"
+	}
 }
 
 $attachment "eyes" "ValveBiped.Bip01_Head1" 2.63 -4.13 0.04 rotate 0 -80.1 -90
