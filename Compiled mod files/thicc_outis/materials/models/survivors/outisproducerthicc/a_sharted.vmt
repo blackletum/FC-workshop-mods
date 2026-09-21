@@ -1,0 +1,43 @@
+vertexlitgeneric
+{
+		$lightwarptexture "models/survivors/outisproducerthicc/toon_light"  
+	$bumpmap "dev/flat_normal"
+	
+	$nocull 1
+	$nodecal 1
+	$phong "1"
+	$phongboost	".02"
+	$phongalbedotint "1"
+	$phongfresnelranges	"[.1 .1 .1]"
+	$PhongExponent "1.0"
+	$halflambert "1"
+	$alphatest 1
+		
+//	$bussin   12
+	$detail "models\survivors\survivor_it"
+	$detailscale 1.75
+	$detailblendfactor ".001" 
+	$detailblendmode 0
+
+	$ITAmount 0
+	 
+
+	Proxies
+	{
+		IT
+		{
+		resultVar $ITAmount
+		}
+		Equals
+		{
+		srcVar1 $ITAmount
+		resultVar $detailblendfactor
+		}
+		Multiply
+		{
+		srcVar1	$bussin
+		srcVar2	$ITAmount
+		resultVar	$phongboost
+		}
+	}
+}

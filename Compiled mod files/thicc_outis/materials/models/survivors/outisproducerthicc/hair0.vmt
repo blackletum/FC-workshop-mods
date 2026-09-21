@@ -1,0 +1,8 @@
+patch
+{
+	include "materials/models/survivors/outisproducerthicc/a_sharted.vmt"
+	insert
+	{
+		"$basetexture" "models/survivors/outisproducerthicc/hair0"
+	}
+}
